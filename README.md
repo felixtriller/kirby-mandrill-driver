@@ -2,7 +2,7 @@
 
 [![Release](https://img.shields.io/github/release/felixtriller/kirby-mandrill-driver.svg)](https://github.com/felixtriller/kirby-mandrill-driver/releases)  [![Issues](https://img.shields.io/github/issues/felixtriller/kirby-mandrill-driver.svg)](https://github.com/felixtriller/kirby-mandrill-driver/issues) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/felixtriller/kirby-mandrill-driver/master/LICENSE)
 
-The missing mail driver for the awesome [Kirby](http://getkirby.com/) CMS by Bastian Allgeier.
+The missing [Mandrill](http://www.mandrill.com/) mail driver for the awesome [Kirby](http://getkirby.com/) CMS by Bastian Allgeier.
 
 ## Installation
 
